@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: My Site
 locale: en_US
-description: Describe your website here.
+description: CTF stuff I guess
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://sjm4584.github.io
 
 # Jekyll configuration
 
